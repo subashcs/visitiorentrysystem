@@ -1,0 +1,9 @@
+
+export const ADD_ENTRY_SUCCESS = 'ADD_ITEM_SUCCESS';
+export const ADD_ENTRY_FAILURE = 'ADD_ITEM_FAILURE';
+export const ADD_ENTRY = 'ADD_ENTRY';
+export const RESET_ADD_ITEM = 'RESET_ADD_ITEM';
+export const GET_DATA ='GET_DATA';
+export const GET_DATA_SUCCESS='GET_DATA_SUCCESS';
+export const GET_DATA_FAILURE='GET_DATA_FAILURE';
+export const GET_ALL_DATA='GET_ALL_DATA';
